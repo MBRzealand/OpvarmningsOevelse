@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OpvarmningsOevelse</string>
+    <string name="vis_overskrift_2">vis overskrift 2</string>
+    <string name="vis_overskrift_1">vis overskrift 1</string>
+    <string name="overskrift">Overskrift</string>
+</resources>
